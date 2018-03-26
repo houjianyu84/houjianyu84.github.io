@@ -196,6 +196,17 @@
         </span>
         
         
+        <span class="top-comment" title="跳转至评论区">
+            <a href="#comments">
+                评论:<span class="count-comment">
+                    <span class="spinner">
+                      <div class="cube1"></div>
+                      <div class="cube2"></div>
+                    </span>
+                </span>
+            </a>
+        </span>
+        
     </div>
     
     <div class="toc-ref">
@@ -247,11 +258,11 @@
 <script type="text/javascript">
     $.getScript('/js/gitalk.js', function () {
         var gitalk = new Gitalk({
-            clientID: '',
-            clientSecret: '',
-            repo: 'yelog.github.io',
-            owner: 'yelog',
-            admin: ['yelog'],
+            clientID: '17f6e588daf79f6f81d5',
+            clientSecret: '27ddc6ba2bd33a697c82814c0e574df4ba49080c',
+            repo: 'houjianyu84.github.io',
+            owner: 'houjianyu84',
+            admin: ['houjianyu84'],
             id: location.pathname,
             distractionFreeMode: 'true',
             language: 'zh-CN',
