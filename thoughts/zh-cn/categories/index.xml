@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jianyu Hou&#39;s Thoughts</title>
+    <link>https://www.writerjianyuhou.me/thoughts/zh-cn/categories/</link>
+    <description>最近更新 in Categories on Jianyu Hou&#39;s Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://www.writerjianyuhou.me/thoughts/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
