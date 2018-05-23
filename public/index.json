@@ -1,0 +1,43 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Jianyu Hou's Thoughts",
+    "description": "Recent content on Jianyu Hou's Thoughts",
+    "home_page_url" : "https://www.writerjianyuhou.me/thoughts/",
+    "feed_url" : "https://www.writerjianyuhou.me/thoughts/index.json",
+    "author" : {
+        "name" : "Jianyu Hou",
+        "url": "https://www.writerjianyuhou.me/thoughts/"
+    },
+    "items" : [
+    {
+        "title" : "Newhugoblog",
+        "date_published" : "2018-05-23T01:33:35-04:00",
+        "date_modified" : "2018-05-23T01:33:35-04:00",
+        "id" : "https://www.writerjianyuhou.me/thoughts/blog/newhugoblog/",
+        "url" : "https://www.writerjianyuhou.me/thoughts/blog/newhugoblog/",
+        "content_html" : "\u003cp\u003eNew hugo blog.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "About",
+        "date_published" : "2018-05-15T03:13:02-04:00",
+        "date_modified" : "2018-05-15T03:13:02-04:00",
+        "id" : "https://www.writerjianyuhou.me/thoughts/about/",
+        "url" : "https://www.writerjianyuhou.me/thoughts/about/",
+        "author" : {
+          "name" : "Jianyu Hou"
+        },
+        "content_html" : "\u003cp\u003eJust need a quiet place to write. That\u0026rsquo;s it.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Contact",
+        "date_published" : "2018-05-15T03:13:02-04:00",
+        "date_modified" : "2018-05-15T03:13:02-04:00",
+        "id" : "https://www.writerjianyuhou.me/thoughts/contact/",
+        "url" : "https://www.writerjianyuhou.me/thoughts/contact/",
+        "author" : {
+          "name" : "Jianyu Hou"
+        },
+        "content_html" : "\u003cblockquote\u003e\n\u003cp\u003eemail: \u003ca href=\"mailto:houjianyu84@gmail.com\"\u003ehoujianyu84@gmail.com\u003c/a\u003e \u003c/br\u003e\nphone: +1(412)407-7166 \u003c/br\u003e\u003cbr /\u003e\nwechat：houjianyu84 \u003cbr\u003e\n\u003cimg src=\"http://p7orpowrt.bkt.clouddn.com/static/images/JianyuQR-code.jpeg\" width = \"200\" alt=\"wechat\" align=center /\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n"
+    }
+    ]
+}

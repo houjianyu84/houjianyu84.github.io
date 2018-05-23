@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.writerjianyuhou.me/thoughts/zh-cn/blog/newhugoblog/</loc>
+    <lastmod>2018-05-23T01:34:24-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.writerjianyuhou.me/thoughts/blog/newhugoblog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.writerjianyuhou.me/thoughts/zh-cn/blog/newhugoblog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.writerjianyuhou.me/thoughts/zh-cn/about/</loc>
+    <lastmod>2018-05-15T03:13:02-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.writerjianyuhou.me/thoughts/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.writerjianyuhou.me/thoughts/zh-cn/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.writerjianyuhou.me/thoughts/zh-cn/contact/</loc>
+    <lastmod>2018-05-15T03:13:02-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.writerjianyuhou.me/thoughts/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.writerjianyuhou.me/thoughts/zh-cn/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.writerjianyuhou.me/thoughts/zh-cn/blog/</loc>
+    <lastmod>2018-05-23T01:34:24-04:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.writerjianyuhou.me/thoughts/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.writerjianyuhou.me/thoughts/zh-cn/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.writerjianyuhou.me/thoughts/zh-cn/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.writerjianyuhou.me/thoughts/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.writerjianyuhou.me/thoughts/zh-cn/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.writerjianyuhou.me/thoughts/zh-cn/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.writerjianyuhou.me/thoughts/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.writerjianyuhou.me/thoughts/zh-cn/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.writerjianyuhou.me/thoughts/zh-cn/</loc>
+    <lastmod>2018-05-23T01:34:24-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.writerjianyuhou.me/thoughts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.writerjianyuhou.me/thoughts/zh-cn/"
+                />
+  </url>
+  
+</urlset>

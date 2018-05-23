@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Jianyu Hou&#39;s Thoughts</title>
+    <link>https://www.writerjianyuhou.me/thoughts/blog/</link>
+    <description>Recent content in Blog on Jianyu Hou&#39;s Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 May 2018 01:33:35 -0400</lastBuildDate>
+    <atom:link href="https://www.writerjianyuhou.me/thoughts/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Newhugoblog</title>
+      <link>https://www.writerjianyuhou.me/thoughts/blog/newhugoblog/</link>
+      <pubDate>Wed, 23 May 2018 01:33:35 -0400</pubDate>
+      <guid>https://www.writerjianyuhou.me/thoughts/blog/newhugoblog/</guid>
+      <description>&lt;p&gt;New hugo blog.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
