@@ -1,12 +1,5 @@
 [
 {
-	"uri": "https://www.writerjianyuhou.me/zh-cn/diaries/diaries/",
-	"title": "日记",
-	"tags": [],
-	"description": "",
-	"content": "  date   diary content     date   diary content  \n  date   diary content  \n  date   diary content  \n  date   diary content  \n"
-},
-{
 	"uri": "https://www.writerjianyuhou.me/zh-cn/notes/it/",
 	"title": "IT",
 	"tags": [],
@@ -33,13 +26,6 @@
 	"tags": [],
 	"description": "",
 	"content": " 商道 经商笔记 "
-},
-{
-	"uri": "https://www.writerjianyuhou.me/zh-cn/diaries/",
-	"title": "日记",
-	"tags": [],
-	"description": "",
-	"content": " 日记 中文日记 思考、摄影、阅读\n"
 },
 {
 	"uri": "https://www.writerjianyuhou.me/zh-cn/notes/lifetips/",
